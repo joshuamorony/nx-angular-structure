@@ -1,0 +1,7 @@
+{
+  "name": "nx-angular-structure",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
